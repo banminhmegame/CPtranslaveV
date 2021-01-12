@@ -264,12 +264,12 @@
     {
       "Action": "Load",
       "Target": "LooseSprites/font_bold",
-      "FromFile": "assets/font_bold.png"
+      "FromFile": "assets/LooseSprites/font_bold.png"
     },
     {
       "Action": "Load",
       "Target": "LooseSprites/font_colored",
-      "FromFile": "assets/font_colored.png"
+      "FromFile": "assets/LooseSprites/font_colored.png"
     },
     {
       "Action": "Load",
