@@ -6,7 +6,7 @@
 
 |         Công việc         | Người thực hiện |                   Trạng thái                   |
 | :-----------------------: | :-------------: | :--------------------------------------------: |
-| Giao diện đồ họa việt hóa |     MinhArt     | <span style="color:red">Chưa hoàn thành</span> |
+| Giao diện đồ họa việt hóa |     MinhArt     | <span style="color:green">Hoàn thành</span> |
 | Giao diện đồ họa việt hóa |      Vinh       | <span style="color:red">Chưa hoàn thành</span> |
 |     Dialogue Abigail      |       Tú        |  <span style="color:green">Hoàn thành</span>   |
 |       Dialogue Alex       |       Tú        |  <span style="color:green">Hoàn thành</span>   |
